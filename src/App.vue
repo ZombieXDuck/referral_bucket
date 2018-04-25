@@ -6,6 +6,9 @@
           <h1 class="has-text-white title">
             Referral Bucket
           </h1>
+          <h2 class="has-text-white subtitle">
+            Grab or add referral codes to the bucket
+          </h2>
         </div>
       </div>
     </section>
